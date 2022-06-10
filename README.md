@@ -42,5 +42,5 @@ Ergebnis der Recherche über das Patentgesetz(PatG)
 
 ## Good to know
 [Kosten von Gebühren reduzieren?](https://www.gesetze-im-internet.de/patg/__23.html)
-Ich habe etwas wärend meiner Arbeit erfunden und nun? 
+Ich habe etwas wärend meiner Arbeit erfunden und nun? <br>
 - wird über das Gesetz über [Arbeitnehmererfindungen(ArbnErfG)](https://www.gesetze-im-internet.de/arbnerfg/) geregelt
