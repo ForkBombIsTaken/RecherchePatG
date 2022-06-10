@@ -1,5 +1,5 @@
 # RecherchePatG
-Ergebnis der Recherche über das PatG
+Ergebnis der Recherche über das Patentgesetz(PatG)
 
 ## Folgende Quelle wurden genutzt:
 
@@ -7,7 +7,7 @@ Ergebnis der Recherche über das PatG
 * [Patentrecht(PatG)](http://www.gesetze-im-internet.de/patg/BJNR201170936.html#BJNR201170936BJNG000100311)
 * [Änderungen des Patentrechts](https://www.buzer.de/gesetz/1466/l.htm)
 
-## Fakten zum PatG
+## Fakten zum Patentgesetz
 - Erste Fassung vom: 25. Mai 1877
 - Inkraftreten am: 1. Juli 1877
 - Wörter: ca 24.000 (stand 06.06.2022)
@@ -15,7 +15,7 @@ Ergebnis der Recherche über das PatG
 - Gilt nur für Deutschland(Territorialitätsprinzip)
 - Behörde: Deutsches Patent- und Markenamt (DPMA)
 
-## FAQ
+## Patentgesetz
 [Wie ist das PatG strukturiert?](https://www.gesetze-im-internet.de/patg/)<br>
 [Wofür ist ein Patent gut?](https://www.gesetze-im-internet.de/patg/__9.html)<br>
 [Welche Kriterien muss ein Patent erfüllen?](https://www.gesetze-im-internet.de/patg/__1.html)<br>
