@@ -41,6 +41,6 @@ Ergebnis der Recherche über das Patentgesetz(PatG)
 [Computerimplementierte Erfindungen](https://www.dpma.de/patente/patentschutz/schutzvoraussetzungen/schutz_computerprogramme/index.html)
 
 ## Good to know
-[Kosten von Gebühren reduzieren?](https://www.gesetze-im-internet.de/patg/__23.html)
-Ich habe etwas wärend meiner Arbeit erfunden und nun? <br>
+[Kosten von Gebühren reduzieren?](https://www.gesetze-im-internet.de/patg/__23.html) <br>
+Ich habe etwas wärend meiner Arbeit erfunden und nun? 
 - wird über das Gesetz über [Arbeitnehmererfindungen(ArbnErfG)](https://www.gesetze-im-internet.de/arbnerfg/) geregelt
